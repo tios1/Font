@@ -1,11 +1,17 @@
 {
-  "name": "tios1 Fonts",
-  "description": "Custom font repository for Revenge",
-  "author": "tios1",
+  "spec": 1,
+  "main": {
+    "name": "Custom Fonts",
+    "description": "Testing VCR OSD Mono font",
+    "author": "tios1"
+  },
   "fonts": [
     {
       "name": "VCR OSD Mono",
+      "postscript": "VCROSDMono",
       "version": "1.001",
+      "description": "Retro CRT-style font",
+      "author": "Riciery Leal",
       "url": "https://raw.githubusercontent.com/tios1/Font/main/VCR_OSD_MONO_1.001.ttf"
     }
   ]
