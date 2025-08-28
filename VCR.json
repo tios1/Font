@@ -1,10 +1,10 @@
 {
   "name": "tios1 Fonts",
-  "main": "VCR OSD Mono",
+  "description": "Custom font repository for Revenge",
+  "author": "tios1",
   "fonts": [
     {
       "name": "VCR OSD Mono",
-      "postscript": "VCR OSD Mono",
       "version": "1.001",
       "url": "https://raw.githubusercontent.com/tios1/Font/main/VCR_OSD_MONO_1.001.ttf"
     }
