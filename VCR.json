@@ -1,5 +1,10 @@
 {
   "spec": 1,
+  "main": {
+    "name": "Custom Fonts Repo",
+    "description": "A collection of custom fonts for Revenge",
+    "author": "tios1"
+  },
   "fonts": [
     {
       "name": "VCR OSD Mono",
